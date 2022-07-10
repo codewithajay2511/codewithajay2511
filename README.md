@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codewithajay2511
 - 👀 I’m interested in learning Data Engineering and currently working in embedded domain as Verification and Validation Engineer
 - 🌱 I’m currently learning SQL, Python, Scala, Apache Hive, Sqoop, Apache Spark
-- 💞️ I’m looking to collaborate on Big Data Projects
+- 💞️ I’m looking to collaborate on Big Data Projecs and Python projects
 - 📫 How to reach me ajaygowtham2511@gmail.com, www.linkedin.com/in/ajaygowtham
 
 <!---
